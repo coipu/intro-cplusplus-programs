@@ -1,3 +1,4 @@
+// DID NOT RECEIVE FULL CREDIT
 // Chapter 10, Programming Challenge 3: Word Counter
 #include <iostream>
 using namespace std;
